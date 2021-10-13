@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>おめでとう</h1>
+<p><a href="/Git/">トップへ</a></p>
 </body>
 </html>
