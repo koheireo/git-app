@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>ウェルカム</h1>
-<a href="/Git/Main">メインページへ</a>
+<a href="/Main">メインページへ</a>
 </body>
 </html>
